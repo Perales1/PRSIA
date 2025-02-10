@@ -1,1 +1,2 @@
-PR1:
+PR1: He intenado medio crear las clases de Alumno y de AlumnoIA y más o menos funciona
+Igualmente, falta cambiar unas cuantas cosas pero vamos que mal no está
