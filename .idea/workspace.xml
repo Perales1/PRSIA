@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0499d445-876b-44cf-9ae4-40de83775803" name="Changes" comment="Proyecto creado">
+    <list default="true" id="0499d445-876b-44cf-9ae4-40de83775803" name="Changes" comment="Merge hecho">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PR1/Alumno.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR1/Alumno.py" beforeDir="false" afterPath="$PROJECT_DIR$/PR1/Alumno.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PR1/AlumnoIA.py" beforeDir="false" afterPath="$PROJECT_DIR$/PR1/AlumnoIA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PR1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="david" />
+        <entry key="$PROJECT_DIR$" value="cristian" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,12 +40,12 @@
     &quot;assignee&quot;: &quot;Perales1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Perales1/PRSIA.git&quot;,
-    &quot;accountId&quot;: &quot;31abff97-3b6e-45f6-a9b2-eb05690cea89&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Perales1/PRSIA.git",
+    "accountId": "eee30958-2b1d-4dd8-bb47-86dbfc58029d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -60,7 +61,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;cristian&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;david&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/CRISTIAN/PycharmProjects/PRSIA/PR1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -80,7 +81,7 @@
       <recent name="C:\Users\CRISTIAN\PycharmProjects\PRSIA" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.AlumnoIA">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,9 +257,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.AlumnoIA" />
         <item itemvalue="Python.Alumno" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.Alumno" />
         <item itemvalue="Python.Alumno" />
       </list>
@@ -284,6 +285,7 @@
       <workItem from="1739191576010" duration="2626000" />
       <workItem from="1739198008375" duration="1872000" />
       <workItem from="1739200017437" duration="6431000" />
+      <workItem from="1739298573659" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <option name="closed" value="true" />
@@ -309,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739195088695</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge hecho">
+      <option name="closed" value="true" />
+      <created>1739279848237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739279848237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,11 +352,12 @@
     <MESSAGE value="Primer commit" />
     <MESSAGE value="Proyecto creado" />
     <MESSAGE value="Pruebas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pruebas" />
+    <MESSAGE value="Merge hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge hecho" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PRSIA$AlumnoIA.coverage" NAME="AlumnoIA Coverage Results" MODIFIED="1739202591607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1" />
-    <SUITE FILE_PATH="coverage/PRSIA$main.coverage" NAME="main Coverage Results" MODIFIED="1739205486767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1" />
-    <SUITE FILE_PATH="coverage/PRSIA$Alumno.coverage" NAME="Alumno Coverage Results" MODIFIED="1739202087527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1" />
+    <SUITE FILE_PATH="coverage/PRSIA$Alumno.coverage" NAME="Alumno Coverage Results" MODIFIED="1739299090815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1" />
+    <SUITE FILE_PATH="coverage/PRSIA$AlumnoIA.coverage" NAME="AlumnoIA Coverage Results" MODIFIED="1739299411095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1" />
+    <SUITE FILE_PATH="coverage/PRSIA$main.coverage" NAME="main Coverage Results" MODIFIED="1739279866763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR1" />
   </component>
 </project>

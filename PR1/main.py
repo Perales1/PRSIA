@@ -29,4 +29,3 @@ with open(archivo_impares, "w") as salida:
         if alumno.dni % 2 != 0:  # Verificar si es impar
                 salida.write(f"{alumno.nombre} {alumno.apellido}, {alumno.dni}, {alumno.correo}\n")
 print(f"Archivo '{archivo_impares}' creado .")
-

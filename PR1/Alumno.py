@@ -18,6 +18,7 @@ class Alumno:
     @property
     def apellido(self):
         return self.__apellido
+
     @apellido.setter
     def apellido(self, apellido):
         self.__apellido = apellido
@@ -26,6 +27,7 @@ class Alumno:
     @property
     def dni(self):
         return self.__dni
+
     @dni.setter
     def dni(self, dni):
         self.__dni = dni
@@ -34,19 +36,13 @@ class Alumno:
     @property
     def correo(self):
         return self.__correo
+
     @correo.setter
     def correo(self, correo):
         self.__correo = correo
 
     def consultar_datos(self):
         return f"Nombre: {self.nombre}\nApellido: {self.apellido}\nDNI: {self.dni}\nCorreo: {self.correo}"
-
-    def mostrar_alumnoo(self):
-        print("Datos de alumno:")
-        print("Nombre: " + self.nombre)
-        print("Apellido: " + self.apellido)
-        print("DNI: " + str(self.dni))
-        print("Correo: " + self.correo)
 
 
 def mostrar_alumno(alumno):
@@ -62,7 +58,5 @@ def crear_alumno():
     return Alumno(nombre, apellido, dni, correo)
 
 # Prueba del código
-#alumno = Alumno()
-#alumno.mostrar_alumnoo()
 #alumno = crear_alumno()
 #mostrar_alumno(alumno)

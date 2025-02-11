@@ -10,6 +10,7 @@ class Alumno_IA(Alumno):
     @property
     def grupo_teoria(self):
         return self.__grupo_teoria
+
     @grupo_teoria.setter
     def grupo_teoria(self, grupo_teoria):
         self.__grupo_teoria = grupo_teoria
@@ -17,6 +18,7 @@ class Alumno_IA(Alumno):
     @property
     def grupo_practicas(self):
         return self.__grupo_practicas
+
     @grupo_practicas.setter
     def grupo_practicas(self, grupo_practicas):
         self.__grupo_practicas = grupo_practicas
@@ -24,6 +26,7 @@ class Alumno_IA(Alumno):
     @property
     def notas_practicas(self):
         return self.__notas_practicas
+
     @notas_practicas.setter
     def notas_practicas(self, notas_practicas):
         self.__notas_practicas = notas_practicas
