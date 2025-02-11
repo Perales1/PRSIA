@@ -80,7 +80,7 @@
       <recent name="C:\Users\CRISTIAN\PycharmProjects\PRSIA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
